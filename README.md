@@ -1,2 +1,2 @@
 # Allen Mouse Regional Marker Identifier
-[hero](IMG_0749.jpeg)
+![hero](IMG_0749.jpeg)
